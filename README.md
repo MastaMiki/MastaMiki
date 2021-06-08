@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there Adventurer!
+I'm the Fant'asian Creator, Just a casual developer.
+I didn't plan to make any public repository yet.
 
+# Progamming language experience
+- PHP
+- C
+- C++
+- JAVA
+- C#
+- Python
 <!--
 **MastaMiki/MastaMiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
